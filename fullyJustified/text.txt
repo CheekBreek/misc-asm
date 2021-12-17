@@ -1,0 +1,9 @@
+40
+Hi there,
+  this is a test of my program   
+which
+displays right justified text to the screen.    Let's see what
+happens 
+        when I
+run
+it.
