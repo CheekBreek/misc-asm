@@ -1,2 +1,2 @@
 # misc-asm
-Assembly language programs
+A collection of assembly language programs
